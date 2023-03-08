@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "libelle": "test",
+        "prix": 100,
+        "image": "http://localhost:3000/images/declaration_variable.png1678204296344.png",
+        "user": "nidal.zoumita@gmail.com"
+    },
+    {
+        "id": "100",
+        "libelle": "test",
+        "prix": 100,
+        "image": "http://localhost:3000/images/declaration_variable.png1678204778777.png",
+        "user": "nidal.zoumita@gmail.com"
+    },
+    {
+        "id": "100",
+        "libelle": "test",
+        "prix": 100,
+        "image": "http://localhost:3000/images/declaration_variable.png1678204814524.png",
+        "user": "nidal.zoumita@gmail.com"
+    }
+]

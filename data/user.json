@@ -1,0 +1,30 @@
+[
+  {
+    "email": "mail1",
+    "password": "$2b$10$vledZXxyKIcjX45FoQ98wuUcC7btoc6u.L9tosoH3WcNK3Gdypv2G"
+  },
+  {
+    "email": "mail2",
+    "password": "$2b$10$Z4oT13mYx9ZWzWP/vPXfsOXqCt0kJd/DloR83mLlnefiiZ3AFYd.S"
+  },
+  {
+    "email": "mail3",
+    "password": "$2b$10$oCUWZ8Ar2OEiGSF5xknzgOA0z0WEx0e7GQiQp9S70KsQ0bbs6AnhK"
+  },
+  {
+    "email": "mail4",
+    "password": "$2b$10$OO54np5H8CyiWjBm38tkPurg8Iv4ftt9sar/tvt48CF8NhJYvnk0i"
+  },
+  {
+    "email": "mail5",
+    "password": "$2b$10$R5NuOioWLv/4WsBZVSne5./ZmVvv15tt5G1Z/JjQyEnEyJ3UG9/9q"
+  },
+  {
+    "email": "mail6",
+    "password": "$2b$10$PCS9c9klENTI1C6ywvD6J.oCTFoJvII.V7.T7nXllw3e4c7IYCYG."
+  },
+  {
+    "email": "nidal.zoumita@gmail.com",
+    "password": "$2b$10$tVmRKn6LdhbEHrc2p2f6POw.9k08veEWIwJf6SSarijqOlhEEXKuu"
+  }
+]
