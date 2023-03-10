@@ -1,6 +1,9 @@
 const express = require('express');
 const path = require('path');
+const { connect } = require('./model/connection');
 require('dotenv').config();
+
+connect();
 
 const userRoute = require('./route/user.route')
 const authRoute = require('./route/auth.route')
